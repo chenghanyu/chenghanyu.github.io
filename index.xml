@@ -50,11 +50,9 @@
       <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
       
       <guid>/software/rshiny_randomgenerate/</guid>
-      <description>
+      <description>&lt;p&gt;This is a &lt;a href=&#34;https://cheyu.shinyapps.io/randomgenerate/&#34; target=&#34;_blank&#34;&gt;R Shiny app&lt;/a&gt; I created for showing random number generation of normal, binomial and gamma distruibutions. Correponding histogram, empirical mean and empirical standard deviation are shown after paramters are specified. This could be helpful when we teach basic probability distributions.&lt;/p&gt;
 
-&lt;p&gt;This is a R Shiny app &lt;a href= https://cheyu.shinyapps.io/randomgenerate/ &lt;/a&gt; I created for showing random number generation of normal, binomial and gamma distruibutions. Correponding histogram, empirical mean and empirical standard deviation are shown after paramters are specified. This could be helpful when we teach basic probability distributions.&lt;/p&gt;
-
-&lt;h2 id=&#34;here-is-my-talk-slides-a-href-https-chenghanyu-github-io-talk-jsm2017-pdf-class-download-title-download-slides-as-pdf-i-class-fa-fa-file-pdf-o-aria-hidden-true-i-a&#34;&gt;Here is my talk slides: &lt;a href=&#34;https://chenghanyu.github.io/talk/jsm2017.pdf&#34; class=&#34;download&#34; title=&#34;Download Slides as PDF&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cheyu.shinyapps.io/randomgenerate/&#34; target=&#34;_blank&#34;&gt;https://cheyu.shinyapps.io/randomgenerate/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
