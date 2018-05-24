@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software on STATSLUG</title>
+    <title>Softwares on STATSLUG</title>
     <link>/software/</link>
-    <description>Recent content in Software on STATSLUG</description>
+    <description>Recent content in Softwares on STATSLUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Cheng-Han Yu</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 -0500</lastBuildDate>
     <atom:link href="/software/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>R Shiny App for Random Number Generation</title>
-      <link>/software/rshiny_randomgenerate/</link>
+      <link>/software/jsm2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 -0500</pubDate>
       
-      <guid>/software/rshiny_randomgenerate/</guid>
+      <guid>/software/jsm2017/</guid>
+      <description>&lt;p&gt;This is a &lt;a href=&#34;https://cheyu.shinyapps.io/randomgenerate/&#34; target=&#34;_blank&#34;&gt;R Shiny app&lt;/a&gt; I created for showing random number generation of normal, binomial and gamma distruibutions. Correponding histogram, empirical mean and empirical standard deviation are shown after paramters are specified. This could be helpful when we teach basic probability distributions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cheyu.shinyapps.io/randomgenerate/&#34; target=&#34;_blank&#34;&gt;https://cheyu.shinyapps.io/randomgenerate/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R Shiny App for Random Number Generation</title>
+      <link>/software/rshiny_random/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/software/rshiny_random/</guid>
       <description>&lt;p&gt;This is a &lt;a href=&#34;https://cheyu.shinyapps.io/randomgenerate/&#34; target=&#34;_blank&#34;&gt;R Shiny app&lt;/a&gt; I created for showing random number generation of normal, binomial and gamma distruibutions. Correponding histogram, empirical mean and empirical standard deviation are shown after paramters are specified. This could be helpful when we teach basic probability distributions.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://cheyu.shinyapps.io/randomgenerate/&#34; target=&#34;_blank&#34;&gt;https://cheyu.shinyapps.io/randomgenerate/&lt;/a&gt;&lt;/p&gt;
