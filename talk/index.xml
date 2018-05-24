@@ -13,14 +13,24 @@
     <item>
       <title>Bayesian Modeling of Complex-valued fMRI Signals for Brain Activation</title>
       <link>/talk/jsm2017/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0500</pubDate>
       
       <guid>/talk/jsm2017/</guid>
       <description>
 
 &lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 
-&lt;h2 id=&#34;here-is-my-talk-slides-a-href-https-chenghanyu-github-io-talk-jsm2017-pdf-class-download-title-download-slides-as-pdf-i-class-fa-fa-file-pdf-o-aria-hidden-true-i-a&#34;&gt;Here is my talk slides: &lt;a href=&#34;https://chenghanyu.github.io/talk/jsm2017.pdf&#34; class=&#34;download&#34; title=&#34;Download Slides as PDF&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;here-is-my-talk-slides-a-href-https-chenghanyu-github-io-talk-jsm2017-jsm2017-pdf-class-download-title-download-slides-as-pdf-i-class-fa-fa-file-pdf-o-aria-hidden-true-i-a&#34;&gt;Here is my talk slides: &lt;a href=&#34;https://chenghanyu.github.io/talk/jsm2017/jsm2017.pdf&#34; class=&#34;download&#34; title=&#34;Download Slides as PDF&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
