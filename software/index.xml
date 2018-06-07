@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Cheng-Han Yu</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/software/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>R Shiny App for Random Number Generation</title>
       <link>/software/jsm2017/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
       
       <guid>/software/jsm2017/</guid>
       <description>&lt;p&gt;This is a &lt;a href=&#34;https://cheyu.shinyapps.io/randomgenerate/&#34; target=&#34;_blank&#34;&gt;R Shiny app&lt;/a&gt; I created for showing random number generation of normal, binomial and gamma distruibutions. Correponding histogram, empirical mean and empirical standard deviation are shown after paramters are specified. This could be helpful when we teach basic probability distributions.&lt;/p&gt;
@@ -25,7 +25,7 @@
     <item>
       <title>R Shiny App for Random Number Generation</title>
       <link>/software/rshiny_random/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
       
       <guid>/software/rshiny_random/</guid>
       <description>&lt;p&gt;This is a &lt;a href=&#34;https://cheyu.shinyapps.io/randomgenerate/&#34; target=&#34;_blank&#34;&gt;R Shiny app&lt;/a&gt; I created for showing random number generation of normal, binomial and gamma distruibutions. Correponding histogram, empirical mean and empirical standard deviation are shown after paramters are specified. This could be helpful when we teach basic probability distributions.&lt;/p&gt;
